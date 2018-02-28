@@ -6,7 +6,8 @@
 		"id": "com.ladeezfirstmedia.elocute"
 	},
 	"dependencies": {
-		"tns-core-modules": "3.4.1"
+		"tns-core-modules": "3.4.0",
+		"nativescript-plugin-firebase":"^5.1.7"
 	},
 	"devDependencies": {
 		"babel-traverse": "6.26.0",
